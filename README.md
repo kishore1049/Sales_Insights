@@ -1,5 +1,4 @@
-# Sales_Insights
-Sales Insights Data Analysis Project 
+
 ## Sales Insights Data Analysis Project
 
 ### Data Analysis Using SQL
